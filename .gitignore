@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Rime build files
+*.bin
+*.reverse.bin
+*.db
+
+
+# Rime cache dirs
+build/
+sync/
+
+# Keep yaml config
+!*.yaml
