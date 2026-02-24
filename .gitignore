@@ -8,7 +8,7 @@
 *.bin
 *.reverse.bin
 *.db
-
+*.userdb
 
 # Rime cache dirs
 build/
