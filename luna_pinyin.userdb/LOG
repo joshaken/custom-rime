@@ -1,5 +1,2 @@
-2026/02/24-20:09:10.585757 0x1ef32d0c0 Recovering log #3
-2026/02/24-20:09:10.585827 0x1ef32d0c0 Level-0 table #5: started
-2026/02/24-20:09:10.592865 0x1ef32d0c0 Level-0 table #5: 252 bytes OK
-2026/02/24-20:09:10.608847 0x1ef32d0c0 Delete type=0 #3
-2026/02/24-20:09:10.608866 0x1ef32d0c0 Delete type=3 #2
+2026/02/24-20:21:36.806086 0x1ef32d0c0 Creating DB /Users/neo/Library/Rime/luna_pinyin.userdb since it was missing.
+2026/02/24-20:21:36.834944 0x1ef32d0c0 Delete type=3 #1
