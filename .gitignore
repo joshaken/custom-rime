@@ -13,6 +13,7 @@
 # Rime cache dirs
 build/
 sync/
+trash/
 
 # Keep yaml config
 !*.yaml
