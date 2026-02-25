@@ -1,15 +1,10 @@
-## Rime 鼠须管（Squirrel）朙月拼音、小鹤双拼、自然码双拼配置详解
+## Rime 鼠须管（Squirrel）朙月拼音+日语配置
 
-- 原Repo [Github](https://github.com/ssnhd/rime)
+### 参考配置
 
-### 特点
-
-* 朙月拼音（默认）、小鹤双拼、自然码双拼
-* 词库不丢失，支持多平台同步
-* 百万[搜狗](https://pinyin.sogou.com/dict/cate/index/167)词库
-* Emoji
-* 动态输入时间、日期、星期
-* 速度快、开源、保护隐私、自定义强
+* 中文 [Github](https://github.com/ssnhd/rime)
+* 日语 [Github](https://github.com/gkovacs/rime-japanese)
+* [搜狗词库](https://pinyin.sogou.com/dict/)
 
 
 ## 安装
@@ -367,7 +362,7 @@ https://rime.im/	rime	2
 Squirrel	rime	1
 ```
 
-![](/img/rime/zidingyiduanyu.png)
+
 
 ## 皮肤
 
@@ -408,55 +403,8 @@ com.microsoft.VSCode:
 1. 打开 Mac 活动监视器，选中程序，点击上方 `···` 里**取样进程**。
 2. 找到 `Identifier` 后面即为程序标识符。
 
-![](/img/rime/app.png)
 
-## 大写数字
 
-配置文件是 `numbers.schema.yaml`。切换输入方案选择大写数字，使用方法参照下表。
-
-<table>
-<thead>
-<tr>
-<th>按键</th>
-<th>输出</th>
-<th>✂️</th>
-<th>按键（按住Shift）</th>
-<th>输出</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1234567890</td>
-<td>壹贰叁肆伍陆柒捌玖零</td>
-<td>✂️</td>
-<td>1234567890</td>
-<td>一二三四五六七八九〇</td>
-</tr>
-<tr>
-<td>wqbsjfd.</td>
-<td>万仟佰拾角分第点</td>
-<td>✂️</td>
-<td>wqbsjfd.</td>
-<td>万千百十角分第点</td>
-</tr>
-<tr>
-<td>z</td>
-<td>整之</td>
-<td>✂️</td>
-<td>z</td>
-<td>整之</td>
-</tr>
-<tr>
-<td>y</td>
-<td>元月亿</td>
-<td>✂️</td>
-<td>y</td>
-<td>元月亿</td>
-</tr>
-</tbody>
-</table>
-
-![](https://i.imgur.com/RQdg63e.gif)
 
 ## 删除错词
 

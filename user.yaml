@@ -1,2 +1,6 @@
 var:
-  last_build_time: 1772013314
+  last_build_time: 1772016104
+  previously_selected_schema: luna_pinyin_simp
+  schema_access_time:
+    japanese: 1772015062
+    luna_pinyin_simp: 1772015073
